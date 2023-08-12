@@ -5,3 +5,5 @@
 optディレクトリに存在するtemp.txtはclone後削除する。
 
 `curl -4 https://www.google.com`
+
+`curl -4 icanhazip.com`
